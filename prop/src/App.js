@@ -1,4 +1,6 @@
+/*importation du fichier SVG*/
 import logo from './logo.svg';
+/*importation du fichier css du composant App*/
 import './App.css';
 /*importation du stylesheet du framework bootstrap*/
 import 'bootstrap/dist/css/bootstrap.min.css';
