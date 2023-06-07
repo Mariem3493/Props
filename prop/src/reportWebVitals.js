@@ -1,3 +1,4 @@
+/*Fonction pour la mesure de la performance de l'application*/
 const reportWebVitals = onPerfEntry => {
   if (onPerfEntry && onPerfEntry instanceof Function) {
     import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {
